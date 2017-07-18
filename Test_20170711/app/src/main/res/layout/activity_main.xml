@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context="com.example.h02.test_20170711.MainActivity">
+
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Test Login"
+            android:layout_gravity="center"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UserName"
+            android:layout_gravity="center"
+            />
+
+        <EditText
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:hint="Enter Name"
+            android:id="@+id/username"
+            android:layout_gravity="center"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:layout_gravity="center"
+            />
+        <EditText
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Enter Password"
+            android:id="@+id/password"
+            android:layout_gravity="center"
+           />
+
+        <Button
+            android:text="Login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/loginBtn"
+            android:layout_gravity="center"
+            />
+
+
+</LinearLayout>
