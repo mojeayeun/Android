@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_a195a486ee52e6a44322ff141543ba2af9a9f8ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_07007b96426ade0ac9ed439a0ee91575e9d376d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_8d887c8c3ebcb49bbd13e8cb63d04ca93c8cd6e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_d6d62bfca75834f6ee5288aaa5035f2633002900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_69dfd43bf87f320577aeb016c139d37a937d6b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_fd171171f6669b4903cf67aa74af270dabd387f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ef9ed61e284774362450fd9777c64cdb0f107fd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18e1a6be36a806153fe725d2bc7d6350e81e6483">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1379b94b62b47ffad06f5cf3855561a88adc0f89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_a35d00a2e6636fdfca7a37e80ea855ae87bddb60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_657a68cf0b4431fbf81576b33ade26eeefa6b73c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_e727b3991b61bca93ac96af5f7abbfb7bd295d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6492a3e34ea26e8928cf4d6add87f3334e4680b3">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad714b453199a4276062b30da9e3741b276ef432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_f46cd89e319bc87a4b4e1c33cecffe0043aff04e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/h02/Documents/temp/Lesson6_20170627/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_29c1c117f57010e726c844a55e16fb06207b5433/classes.dex" />
+    </item>
+
+</items>
