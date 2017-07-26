@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProjectA3</string>
+    <string name="banff_image">banff.png</string>
+    <string name="banff_subtitle">perfect place from which to explore Canada\'s Rocky Mountains</string>
+    <string name="banff_content">Banff is the perfect place from which to explore Canada\'s Rocky Mountains. Surrounded by the pristine wilderness of the Banff National Park and central to many of the regions best attractions, Banff is popular throughout the year. The town\'s native population of 10,000 is supplemented by around 4 million visitors each year. </string>
+
+    <string name="orland_image">olando.png</string>
+    <string name="orland_subtitle">The city is known for its world-class theme parks, pristine golf courses, and the out-of-this-world space and science centers. </string>
+    <string name="orland_content">Orlando is a center for engineering and technology, due in part to its proximity to the Kennedy Space Center. Tour the launch areas where the first moon landing missions in U.S. history began. At the Space Shuttle Launch Experience, climb inside a shuttle cabin for a ride as close as you\’ll get to actual lift-off into outer space.</string>
+
+    <string name="montral_image">montreal.png</string>
+    <string name="montral_subtitle">Montreal is a proudly French city</string>
+    <string name="montral_content">It began as a French fur trading post. Its official language is French, and many Montrealers insist on speaking it. Even the way the city looks and feels is often described as Parisian. Montreal\’s colorful townhouses, bohemian lifestyle and love of dining and the arts all mirror the French capital. Check out the cafés and bookstores of Plateau-Mont-Royal in the city\’s northeast for the purest taste of Montreal\’s Parisian spirit.</string>
+
+    <string name="toronto">Toronto, ON, Canada</string>
+    <string name="toronto_desciption">Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario\’s northwestern shore. It\'s a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower. Toronto also has many green spaces, from the orderly oval of Queen\’s Park to 400-acre High Park and its trails, sports facilities and zoo.</string>
+    <string name="vancouver_description">Vancouver, a bustling west coast seaport in British Columbia, is among Canada\’s densest, most ethnically diverse cities. A popular filming location, it\’s surrounded by mountains, and also has thriving art, theatre and music scenes. Vancouver Art Gallery is known for its works by regional artists, while the Museum of Anthropology houses preeminent First Nations collections.</string>
+    <string name="buy">buy</string>
+    <string name="vancouver">Vancouver, ON, Canada</string>
+    <string name="back">Back</string>
+</resources>
