@@ -172,6 +172,10 @@ public class MainActivity extends AppCompatActivity {
         if (total==0) mTextView.setTypeface(Typeface.defaultFromStyle(Typeface.NORMAL));
         if (total==1) mTextView.setTypeface(Typeface.defaultFromStyle(Typeface.BOLD));
         if (total==2) mTextView.setTypeface(Typeface.defaultFromStyle(Typeface.ITALIC));
+
+        SpannableString 을 사용하여 문자에 underline을 넣을수 있다
+
+
         //if (total==4) mTextView.setTypeface(TextAttribute.INPUT_METHOD_UNDERLINE);
 
 //        UnderlineSpan us = new UnderlineSpan();
