@@ -4,6 +4,7 @@ import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.CheckBox;
@@ -132,12 +133,16 @@ public class MainActivity extends AppCompatActivity {
                 String msg =  radioGroup.getResources().getResourceName(i);
 
                 if (msg.equals(RADIO1_VALUE)){
-                    mTextView.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                    mTextView.setGravity(Gravity.LEFT);
+                    //mTextView.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
                 }else if(msg.equals(RADIO2_VALUE)){
-                    mTextView.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+                    mTextView.setGravity(Gravity.CENTER);
+
+                    //mTextView.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
 
                 }else if(msg.equals(RADIO3_VALUE)){
-                    mTextView.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_END);
+                    mTextView.setGravity(Gravity.RIGHT);
+                    //mTextView.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_END);
 
                 }else{
                     // do nothing
