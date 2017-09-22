@@ -58,6 +58,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+        //download button
         public void onDownloadClick(View view){
             Toast.makeText(MainActivity.this, "clickclik", Toast.LENGTH_SHORT).show();
             MyTask myTask = new MyTask(MainActivity.this,binding.tvTitle,binding.downloadBtn);
@@ -66,6 +68,8 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+
+        //goto next
         public void onGotoNextPageButtonClick(View view) {
             Intent intent = new Intent(MainActivity.this,TwoActivity.class);
             intent.putExtra("data","test");
@@ -73,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+        //googole
         public void onInternetClick(View view) {
             Uri uri = Uri.parse("http://www.google.com");
             Intent it  = new Intent(Intent.ACTION_VIEW,uri);
@@ -80,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+        //phonecall
         public void onPhoneCallClick(View view) {
             Uri uri = Uri.parse("tel:xxxxxx");
             Intent it = new Intent(Intent.ACTION_DIAL, uri);
